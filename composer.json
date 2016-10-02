@@ -1,0 +1,12 @@
+{
+  "autoload": {
+    "classmap": [
+      "src/"
+    ]
+  },
+
+  "require": {
+    "monolog/monolog": "1.*",
+    "league/climate": "3.2.*"
+  }
+}
